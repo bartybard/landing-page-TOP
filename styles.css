@@ -124,7 +124,7 @@ button{
     font-size: 18px;
     font-weight: bold;
     padding: 5px 25px;
-    border-radius: 20%;
+    border-radius: 10px;
     border: 0;
 }
 
@@ -198,7 +198,7 @@ button{
     flex-grow: 1;
     padding-left: 50px;
     background-color: #3882F6;
-    border-radius: 10%;
+    border-radius: 20px;
     color: white;
 }
 
